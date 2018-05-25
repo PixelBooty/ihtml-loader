@@ -1,0 +1,22 @@
+{
+  "name" : "ihtml-loader",
+  "version" : "0.0.1",
+  "descripton": "Webpack loader for iHtml",
+  "main": "index.js",
+  "repository": "https://github.com/AdaptivElite/ihtml-loader",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML Parser",
+    "Inheritance",
+    "Polymorphism",
+    "HTML",
+    "webpack"
+  ],
+  "author": "AdaptivElite <steven@adaptivelite.com> (http://www.adaptivelite.com)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "ihtml": "^0.0.2"
+  }
+}
