@@ -1,6 +1,6 @@
 {
   "name" : "ihtml-loader",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "descripton": "Webpack loader for iHtml",
   "main": "index.js",
   "repository": "https://github.com/AdaptivElite/ihtml-loader",
@@ -17,6 +17,6 @@
   "author": "AdaptivElite <steven@adaptivelite.com> (http://www.adaptivelite.com)",
   "license": "GPL-3.0",
   "dependencies": {
-    "ihtml": "^0.0.2"
+    "ihtml": "^0.0.3"
   }
 }
